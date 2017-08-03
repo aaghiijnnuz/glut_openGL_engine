@@ -1,0 +1,18 @@
+﻿  Flock.cpp
+Flock.cpp(66): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+Flock.cpp(260): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Flock.cpp(278): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+Flock.cpp(281): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+Flock.cpp(285): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+Flock.cpp(289): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+Flock.cpp(292): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+Flock.cpp(513): warning C4305: “参数”: 从“double”到“GLfloat”截断
+Flock.cpp(522): warning C4305: “参数”: 从“double”到“GLfloat”截断
+Flock.cpp(590): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  0 of 119 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MiniEngine.vcxproj -> D:\FlockingBoids\Release\FlockingBoids.exe
+  MiniEngine.vcxproj -> D:\FlockingBoids\Release\FlockingBoids.pdb (Full PDB)
